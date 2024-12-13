@@ -1,0 +1,129 @@
+.glass{
+    backdrop-filter: brown(20px);
+    }
+  
+  
+  
+  .name{
+         font-size: 65px;
+         color: blake;
+         font-style:italic;
+         background-color:blue;
+         
+       }
+  .rahu{
+    background-color:blake;
+    color:red;
+    font-size:35px;
+    font-style:borde;
+   
+  }
+  .rahul_one{
+    background-color:blake;
+    color:orange;
+    font-size:35px;
+    font-style:borde;
+  }
+  .rahul_two{
+    background-color:blake;
+    color:purple;
+    font-size:35px;
+    font-style:borde;
+  }
+  .name_one{
+    font-style:italic;
+    font-size:50px;
+    color:blake;
+  }
+  .rama{
+     background-color:yellow;
+     font-size:45px;
+     font-style:borde;
+     text-align:center;
+   }
+   .rama1{
+     color:pink;
+   }
+   .rama2{
+     color:green;
+     
+   }
+   
+   .ram0 {
+     text-align:center;
+     font-size:30px;
+     color:blake;
+   }
+    body{
+       background: linear-gradient(120deg,purple,
+       blue,gold);
+       }
+    .ran  {
+      
+      background-color:red;
+      padding: 20px;
+      display: flex;
+      gap: 95px;
+      padding-left: 10px;
+      
+      
+      
+     
+      
+      }
+  
+    .ran1{
+      
+      background-color: yellow;
+      padding: 5px;
+      font-size: 10px,10px,10px;
+      padding-left: 0px,0px,10px;
+     
+      
+      
+      }
+    .like {
+      background-color: yellowgreen;
+     
+      }
+      textarea {
+    width: 80%;
+    height: 300px;
+    padding: 10px;
+    font-size: 16px;
+    margin-top: 20px;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+    resize: none;
+  }
+       
+      .buttons {
+    margin-top: 20px;
+  }
+  
+  button {
+    padding: 10px 20px;
+    font-size: 16px;
+    background-color: #4CAF50;
+    color: white;
+    border: none;
+    margin: 5px;
+    cursor: pointer;
+    border-radius: 5px;
+  }
+  
+  button:hover {
+    background-color: #45a049;
+  }
+  .long1{
+    color: #A818B0;
+    font-size:50px;
+    }
+    
+  .son{
+    color:#DBDF1C ;
+    font-size:30px;
+    }
+  .dramma{
+    text-align: center;
+  } 
